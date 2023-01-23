@@ -15,7 +15,8 @@ hugo.linux
 
 # Temporary lock file while building
 /.hugo_build.lock
-
+Icon
+node_modules/*
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
