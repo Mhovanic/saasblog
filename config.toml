@@ -1,6 +1,6 @@
 baseURL = 'https://mhovanic.github.io/'
 languageCode = 'en-us'
-title = 'Saas Blog'
+title = 'Saas Idea Lab'
 metaDataFormat = "yaml"
 theme = "blist"
 
@@ -12,8 +12,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Hey! I'm Matthew Hovanic"
-      introSubtitle = "yo"
+      introTitle = "SaaS Idea Lab"
+      introSubtitle = "Fostering Innovation and Development in the SaaS Industry"
       introPhoto = "/Logo.png"    
     [[languages.en.menu.main]]
         name = "Blog"
@@ -107,24 +107,21 @@ DefaultContentLanguageInSubdir = true
 [params.homepage.social]
   # Global params common for both languages
   title = "Follow me"
-  description = "I work on everything coding and tweet developer memes"
+  
 
   [[params.homepage.social.icons]]
     website = "twitter"
-    url = "https://twitter.com/"
+    url = "https://twitter.com/MHovanic"
   [[params.homepage.social.icons]]
     website = "linkedin"
-    url = "https://linkedin.com/in/"
-  [[params.homepage.social.icons]]
-    website = "xing"
-    url = "https://www.xing.com/profile/"
+    url = "https://linkedin.com/in/matt-hovanic/"
   
   [[params.homepage.social.icons]]
     website = "github"
-    url = "https://github.com/"
+    url = "https://github.com/Mhovanic"
   [[params.homepage.social.icons]]
     website = "buymeacoffee"
-    url = "https://www.buymeacoffee.com/"
+    url = "https://www.buymeacoffee.com/matthova"
   
   
   [[params.homepage.social.icons]]
